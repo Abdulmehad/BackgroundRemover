@@ -38,7 +38,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd BackgroundRemover
 ```
 Change `YOUR_API_KEY` with the API key of your own in the `./customhook/useBgRemoval` file
 
