@@ -40,10 +40,10 @@ Go to the project directory
 ```bash
   cd my-project
 ```
-Create a .env file in the root directory and write this line
+Change `YOUR_API_KEY` with the API key of your own in the `./customhook/useBgRemoval` file
 
 ```bash
-  `REACT_APP_API_BG` = `Your api key`
+  'X-Api-Key'='YOUR_API_KEY'
 ```
 
 Install dependencies
