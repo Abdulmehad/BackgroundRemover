@@ -7,9 +7,7 @@ Say goodbye to background headaches! 🚀 Our Background Remover Site, crafted w
 
 ## Tech Stack
 
-**Client:** React, CSS
 
-**Server:** Node
 
 
 ## To Get Api Key
@@ -32,7 +30,7 @@ To run this project, you will need to add the following environment variables to
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/Abdulmehad/BackgroundRemover
 ```
 
 Go to the project directory
@@ -60,7 +58,7 @@ Start the server
 
 ## Overview
 
-[Click here](https://www.youtube.com/watch?v=KHuJt7d3LaE) to watch a video tutorial that will guide you on how to use.
+[Click here](https://github.com/Abdulmehad/BackgroundRemover/blob/master/tutorial.mp4) to watch a video tutorial that will guide you on how to use.
 
 ### Repo Activity
 
