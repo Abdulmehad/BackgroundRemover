@@ -1,5 +1,6 @@
 
 # Background remover site using React js
+![Background Removal App](ss.png)
 
 Say goodbye to background headaches! 🚀 Our Background Remover Site, crafted with React.js, makes it a breeze to cut out backgrounds from your photos. It's quick, fun, and hassle-free. Give your images a fresh look – try it now! 🎉 #ReactJS #BackgroundRemover
 
@@ -7,7 +8,8 @@ Say goodbye to background headaches! 🚀 Our Background Remover Site, crafted w
 
 ## Tech Stack
 
-
+* React: The app's dynamic and responsive user interface is developed using React, ensuring a seamless and interactive user experience.
+* Tailwind CSS: Tailwind CSS is employed to style the application, resulting in an elegant and visually appealing design that aligns with modern web development standards.
 
 
 ## To Get Api Key
@@ -55,10 +57,30 @@ Start the server
 ```bash
   npm run start
 ```
+## Usage
+Once you have the Background Remover app up and running, follow these steps to remove backgrounds from your photos:
 
+* Upload an image by clicking the "Upload Image" button.
+* Use the available tools and options to refine the selection and make any necessary adjustments.
+* Click the "Remove Background" button to initiate the background removal process.
+* Wait for the app to process the image and remove the background.
+* Once the background removal is complete, you can download the edited image with the transparent background.
 ## Overview
 
 [Click here](https://github.com/Abdulmehad/BackgroundRemover/blob/master/tutorial.mp4) to watch a video tutorial that will guide you on how to use.
+
+## Demo
+```bash
+1- File is uploaded
+```
+![demo App](ss1.png)
+```bash
+2- After clicking  `Remove Background Button`
+```
+![demo App](ss2.png)
+```bash
+3-Hit Downlod Button to download the file
+```
 
 ### Repo Activity
 
