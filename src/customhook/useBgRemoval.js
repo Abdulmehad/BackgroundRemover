@@ -14,7 +14,7 @@ function useBgRemoval(formData){
         data: formData,
         headers: {
           'Content-Type': 'multipart/form-data',
-          'X-Api-Key': 'YOUR_API_KEY'
+          'X-Api-Key': 'V97FnGSSEMvREr2YFsyme69T' 
         },
         responseType: 'blob'
       });
